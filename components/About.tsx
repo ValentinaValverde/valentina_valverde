@@ -18,12 +18,11 @@ export default function About() {
 
       <div className="p-6 flex justify-between items-start">
         <p className="text-lg max-w-1/2">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          I&apos;m a Design Engineer with 2+ years in experience building SaaS
+          products and various other creative projects. With my love for art and
+          eye for design, I am able to fill in the gaps between developers and
+          designers. I believe communication is key in every relationship, and I
+          absolutely love a good sandwich.
         </p>
 
         <div className="text-right">
@@ -31,6 +30,10 @@ export default function About() {
           <p>Location: Greenville, SC</p>
         </div>
       </div>
+
+      {/* <div className="w-full flex justify-end mb-[-64px]">
+        <img src="/valentina.png" alt="Valentina's Photo" />
+      </div> */}
     </div>
   );
 }
