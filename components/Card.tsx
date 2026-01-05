@@ -13,7 +13,7 @@ export default function Card({
 }) {
   return (
     <>
-      <a href={link}>
+      <a href={link} target="_blank">
         <img
           src={imageUrl}
           alt={title}

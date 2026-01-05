@@ -3,14 +3,14 @@ export const homePageProjects = [
     title: 'ChippAI',
     subtitle:
       'Redesigned Chipp’s core builder into a cleaner, more intuitive space built for speed and clarity.', // or usability
-    link: '/',
+    link: 'https://app.chipp.ai/',
     imageUrl: '/app_builder.png',
   },
   {
     title: 'Rabbit Hole Digital',
     subtitle:
       'Reimagined a full music analytics platform with modern UI, responsive layouts, and rebuilt core flows.',
-    link: '/',
+    link: 'https://rabbitholedigital.netlify.app/',
     imageUrl: '/rabbit_hole.png',
   },
 ];
