@@ -1,3 +1,3 @@
 Personal Website V1
 
-https://valentina-valverde.vercel.app/
+https://www.valentinavalverde.com/
